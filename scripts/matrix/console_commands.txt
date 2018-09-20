@@ -1,0 +1,24 @@
+memory = new WebAssembly.Memory({ initial: 256, maximum: 256});
+
+var importObject = {
+    env: {
+        abortStackOverflow: () => { throw new Error('overflow'); },
+        abort: () => {throw new Error('abort');},
+ table: new WebAssembly.Table({ initial: 10, limit: 100, element: 'anyfunc' }),
+        tableBase: 0,
+        memory: memory,
+        memoryBase: 1024,
+        STACKTOP: 0,
+        STACK_MAX: memory.buffer.byteLength,
+        _rand: Math.random    
+}        
+};
+
+fetch('pi.wasm').then(response =>
+  response.arrayBuffer()
+).then(bytes =>
+  WebAssembly.instantiate(bytes, importObject)
+).then(result =>{
+  x = result.instance.exports._calculatePi(50000000)
+  console.log(x)
+});
