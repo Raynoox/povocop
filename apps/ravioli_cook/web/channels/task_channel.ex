@@ -6,10 +6,11 @@ defmodule RavioliCook.TaskChannel do
     {:ok, socket}
   end
 
-  def handle_in("task_request", %{}, socket) do
-    IO.inspect TaskServer.get()
+  def handle_in("task_request", clientInfo, socket) do
+    #IO.inspect clientInfo
+    #IO.inspect TaskServer.get(clientInfo)
 
-  	case TaskServer.get() do
+  	case TaskServer.get_best(clientInfo) do
       nil -> nil
       tasks ->
         push(socket, "task_response", %{:items => tasks})

@@ -30,6 +30,10 @@ defmodule RavioliCook.JobFetcher.Server do
     GenServer.cast(@name, {:update_start_time, job_id, time})
   end
 
+  def get_batch_size_prediction(job_id, attributes) do
+    GenServer.call(@name, {:get_batch_size_prediction, job_id, attributes})
+  end
+
   # Callbacks
   def init(%{}) do
     Process.send_after(self(), :fetch_jobs, 1_000)
@@ -45,6 +49,28 @@ defmodule RavioliCook.JobFetcher.Server do
     {:reply, job, state}
   end
 
+  def handle_call({:get_batch_size_prediction, job_id, attributes}, _from, %{jobs: jobs} = state) do
+    predictions = Enum.find(jobs, &(&1.id == job_id)).predictions 
+     
+    best_value_prediction = predictions 
+      |> Enum.map(fn(x) -> %{calculate_prediction_value(x, attributes) => x} end) 
+      |> Enum.max_by(fn x -> Map.keys(x) end, fn -> %{ 0 => %{ "prediction" => 0}} end)
+
+    final_prediction = best_value_prediction |> Map.values |> List.first
+
+    {:reply, final_prediction["prediction"], state}
+  end
+
+  def calculate_prediction_value(prediction, attributes) do
+    Map.keys(attributes) 
+    |> Enum.reduce(0, fn item, acc ->
+      if prediction[item] == attributes[item] do
+        acc + (prediction["counter"] * 0.2)
+      else
+        acc
+      end
+    end )
+  end
 
   def handle_cast({:update_start_time, job_id, time}, state) do
     job = Enum.find(state.jobs, fn j -> j.previous_job_id == job_id end)
@@ -82,11 +108,13 @@ defmodule RavioliCook.JobFetcher.Server do
     fetched_jobs =
       @jobs_api.jobs().body
       |> Enum.map(&Job.from_map/1)
-      |> reject_processed_by_other_nodes()
-    IO.inspect @jobs_api.jobs().body
-    {new_jobs, new_tasks} = divide_jobs_into_tasks(fetched_jobs -- jobs)
+    new_jobs_to_split = fetched_jobs |> reject_processed_by_other_nodes()
 
-    all_jobs = Enum.uniq_by(jobs ++ new_jobs, &(&1.id))
+    {new_jobs, new_tasks} = divide_jobs_into_tasks(new_jobs_to_split -- jobs)
+
+    updated_jobs = Enum.filter(jobs, fn x -> Enum.any?(fetched_jobs, fn y -> y.id == x.id end) end) |> Enum.map(fn x -> Map.put(x, :predictions, Enum.find(fetched_jobs, fn y -> y.id == x.id end, fn z -> x end).predictions) end)
+    
+    all_jobs = Enum.uniq_by(updated_jobs ++ jobs ++ new_jobs, &(&1.id))
     TaskServer.add(new_tasks)
 
     new_state = %{state | jobs: all_jobs}
@@ -122,3 +150,4 @@ defmodule RavioliCook.JobFetcher.Server do
     end)
   end
 end
+

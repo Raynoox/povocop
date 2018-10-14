@@ -2,8 +2,7 @@ defmodule RavioliShop.CookController do
   use RavioliShop.Web, :controller
 
   def pending(conn, params) do
-    jobs = RavioliShop.Repo.all(RavioliShop.Job)
-    IO.inspect jobs
+    jobs = RavioliShop.Repo.preload(RavioliShop.Repo.all(RavioliShop.Job), :predictions)
     render(conn, RavioliShop.JobView, "index.json", jobs: jobs)
 
     # conn |> send_resp(200, "Pending job request")

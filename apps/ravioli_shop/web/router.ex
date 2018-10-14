@@ -33,7 +33,14 @@ defmodule RavioliShop.Router do
 
     post "/sign_in", AuthController, :sign_in
     post "/sign_up", AuthController, :sign_up
+
+  end
+
+  scope "/api", RavioliShop do
+    pipe_through [:api, :trusted_service]
+    
     post "/points", PointsController, :update
+    post "/predictions", PredictionController, :update
   end
 
   scope "/api", RavioliShop do

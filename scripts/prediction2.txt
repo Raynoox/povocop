@@ -1,0 +1,3107 @@
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+22:38:50 - info: compiled 10 files into 2 files, copied 4 in 4.8 sec
+18
+18
+18
+18
+18
+18
+18
+18
+18
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+18
+18
+18
+18
+18
+18
+18
+18
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+18
+18
+18
+18
+18
+18
+18
+18
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+18
+18
+18
+18
+18
+18
+18
+18
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+18
+18
+18
+18
+18
+18
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+18
+18
+18
+18
+18
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+18
+18
+18
+18
+18
+18
+18
+18
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+18
+18
+18
+18
+18
+18
+18
+18
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+18
+18
+18
+18
+18
+18
+18
+18
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+18
+18
+18
+18
+18
+18
+18
+18
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+18
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+18
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+20
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+20
+20
+20
+20
+20
+20
+20
+20
+20
+FINISH
+current value: 3.14158809312
+duration: 268697124
+
+
+
+
+
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+5
+5
+5
+5
+5
+5
+FINISH
+current value: 3.14158362176
+duration: 1030911460
+
+
+
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+5
+23:45:21 - info: compiling
+5
+23:45:22 - info: compiled 10 files into 2 files, copied 4 in 4.7 sec
+5
+5
+5
+5
+5
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+5
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+5
+48
+48
+48
+48
+48
+48
+48
+48
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+48
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+48
+48
+48
+48
+48
+48
+48
+48
+12
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+12
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+12
+12
+12
+12
+12
+12
+12
+12
+12
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+12
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+12
+12
+12
+12
+12
+12
+12
+12
+12
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+12
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+12
+12
+10
+10
+10
+10
+10
+10
+10
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+10
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+10
+10
+10
+10
+10
+10
+10
+10
+10
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+10
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+10
+10
+10
+10
+10
+10
+10
+10
+10
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+10
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+10
+10
+10
+10
+10
+10
+10
+10
+10
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+10
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+10
+10
+10
+10
+10
+10
+10
+10
+10
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+10
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+10
+10
+10
+10
+10
+10
+10
+10
+10
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+10
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+10
+10
+10
+10
+10
+10
+10
+10
+10
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+10
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+10
+10
+10
+10
+10
+10
+10
+10
+10
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+10
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+10
+10
+10
+10
+10
+10
+30
+30
+30
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+30
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+30
+30
+30
+30
+30
+30
+30
+30
+30
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+30
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+30
+30
+30
+30
+30
+30
+30
+30
+30
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+12
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+12
+12
+12
+12
+12
+12
+12
+12
+12
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+12
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+12
+12
+12
+12
+12
+12
+30
+30
+30
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+30
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+30
+30
+30
+30
+30
+30
+30
+30
+30
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+30
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+30
+30
+30
+16
+16
+16
+16
+16
+16
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+16
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+16
+16
+16
+16
+16
+16
+16
+16
+16
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+16
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+16
+16
+16
+16
+16
+16
+16
+16
+16
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+16
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+16
+16
+16
+16
+16
+16
+16
+16
+16
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+16
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+16
+16
+16
+16
+30
+30
+30
+30
+30
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+30
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+30
+30
+30
+30
+30
+16
+16
+16
+16
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+16
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+16
+16
+16
+16
+16
+16
+16
+16
+16
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+16
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+16
+16
+16
+16
+16
+16
+16
+16
+16
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+16
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+16
+16
+16
+16
+16
+16
+16
+16
+16
+[info] JOIN "tasks:*" to RavioliCook.TaskChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied tasks:* :ok
+16
+[info] JOIN "result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23" to RavioliCook.ResultChannel
+  Transport:  Phoenix.Transports.WebSocket (2.0.0)
+  Serializer:  Phoenix.Transports.V2.WebSocketSerializer
+  Parameters: %{}
+[info] Replied result:job-0dcd308b-50e7-4b08-832a-b2aa3cb84d23 :ok
+16
+16
+16
+FINISH
+current value: 3.14159917824
+duration: 293404483

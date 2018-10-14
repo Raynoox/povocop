@@ -1,4 +1,5 @@
 import {socket, resultSocket} from "./socket";
+import {clientInfo, httpGetAsync} from "./client";
 import Fingerprint from 'fingerprintjs2';
 
 let channelJoined = false;
@@ -7,6 +8,13 @@ let previousWasmSrc = '';
 let effectiveWorkerScript = '';
 let peakFLOPS = 0;
 let fingerprint = 'undefined';
+let subnet = "";
+
+httpGetAsync("https://json.geoiplookup.io/", function(response) {
+  subnet = JSON.parse(response).asn;
+  console.log("SUBNET ASN -"+subnet);
+});
+
 
 const readFile = (pathOfFileToReadFrom) => {
     var request = new XMLHttpRequest();
@@ -47,11 +55,13 @@ const getTextRepresentationOfWebWorkerCode = () => `
   };
 `
 const pushTaskRequest = (taskChannel) => {
-  taskChannel.push("task_request", {browser: "Google Chrome", version: "69.0"})
+  taskChannel.push("task_request", getClientAttributes())
 };
 
 const pushResults = (task, results) => {
   let channel = getResultChannel(resultSocket, task);
+  results.clientInfo = getClientAttributes();
+  console.log("sending "+results);
   channel.push("result", results);
 }
 
@@ -96,7 +106,6 @@ const embedScriptFile = (scriptSrc, wasmSrc, callback, data) => {
 }
 
 
-
 let benchmark = () => {
 
   const OPs = 1000000;
@@ -114,6 +123,17 @@ let benchmark = () => {
       results += FLOPS;
   };
   return (results/loops);
+}
+
+let getClientAttributes = () => {
+  let result = {
+    "browser": clientInfo.browser.name,
+    "browser_version": clientInfo.browser.version,
+    "os": clientInfo.os.name,
+    "os_version": clientInfo.os.version,
+    "subnet": subnet
+  }
+  return result; 
 }
 
 export default class App {
@@ -148,14 +168,14 @@ export default class App {
             setTimeout(function() {
               console.log("timeout")
               pushTaskRequest(taskChannel)
-            }, 1000)
+            }, 200)
           }
         })
       } else {
         setTimeout(function() {
           console.log("timeout")
           pushTaskRequest(taskChannel)
-        }, 1000)
+        }, 200)
       }
     })
 

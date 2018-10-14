@@ -1,0 +1,24 @@
+with prediction PC duration: 514851846
+
+FINISH
+current value: 3.14157784096
+duration: 1005187711
+
+
+FINISH
+current value: 3.14155582336
+duration: 105688099
+
+FINISH
+current value: 3.141568246830634
+duration: 94911430
+
+
+
+FINISH
+current value: 3.141587379180819
+duration: 119999365
+
+FINISH
+current value: 3.14156726352
+duration: 206162772

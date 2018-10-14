@@ -17,6 +17,8 @@ defmodule RavioliCook.TaskServer do
 
   def get(id), do: GenServer.call(@name, {:get, id})
 
+  def get_best(clientInfo), do: GenServer.call(@name, {:get_best, clientInfo})
+
   def init(_) do
     {:ok, []}
   end
@@ -27,11 +29,26 @@ defmodule RavioliCook.TaskServer do
   def handle_call(:get, _from, tasks) when length(tasks) < 6 do
     {:reply, tasks, tasks}
   end
+
+  def handle_call({:get_best, clientInfo}, _from, tasks) when length(tasks) < 6 do
+    {:reply, tasks, tasks}
+  end
+
   def handle_call(:get, from, tasks) do
-    # TODO predykcja tutaj zmienić ilość wysyłanych zadań, przy okazji zmienić na 50 batch_size
-    batch = Enum.take(tasks, 5)
+    
+    batch = Enum.take(tasks, 3)
     GenServer.reply(from, batch)
-    {:noreply, Enum.drop(tasks, 5) ++ batch}
+    {:noreply, Enum.drop(tasks, 3) ++ batch}
+  end
+
+  def handle_call({:get_best, clientInfo}, from, tasks) do 
+
+    default_batch_size = 4
+    default_cores = 1
+    batch_size = Enum.max([RavioliCook.JobFetcher.Server.get_batch_size_prediction(List.first(tasks)["job_id"], clientInfo)*default_cores,default_batch_size])
+    batch = Enum.take(tasks, batch_size)
+    GenServer.reply(from, batch)
+    {:noreply, Enum.drop(tasks, batch_size) ++ batch}
   end
 
   def handle_call({:get, id}, _from, tasks) do

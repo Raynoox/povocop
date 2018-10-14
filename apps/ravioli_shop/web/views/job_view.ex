@@ -23,7 +23,8 @@ defmodule RavioliShop.JobView do
       duration: job.duration,
       pfc_count: job.pfc_count,
       pfc_sum: job.pfc_sum,
-      wasm_file: file_path(job.wasm_file)
+      wasm_file: file_path(job.wasm_file),
+      predictions: job.predictions
     }
   end
 
@@ -35,6 +36,10 @@ defmodule RavioliShop.JobView do
   end
 
   defp file_path(file) do
-    RavioliShop.Endpoint.url <> "/uploads/jobs/scripts/" <> file.file_name
+    if file == nil do
+      nil
+    else
+      RavioliShop.Endpoint.url <> "/uploads/jobs/scripts/" <> file.file_name
+    end
   end
 end

@@ -39,31 +39,24 @@ defmodule RavioliShop.UserPoints do
 
   def update_pfc(user_id, job_id, pfc, pfc_count) do
 
-    #points_to_add = calculate_points(user_id, job_id, pfc, pfc_count)
-    #IO.inspect points_to_add
     case calculate_points(user_id, job_id, pfc, pfc_count) do
       {:error, :cheater_prevention} ->
         IO.puts "Cheater detected"
       {:error, :not_found} ->
         create_new_user_points(user_id, job_id, pfc, pfc_count)
-        IO.puts "add poitns"
       points_to_add when is_integer(points_to_add) ->
-        IO.puts "found users adding points"
         update_all_points(points_to_add, user_id, job_id, pfc, pfc_count)
     end
   end
   defp update_all_points(points_to_add, user_id, job_id, pfc, pfc_count) do 
 
-        IO.puts "Adding #{points_to_add} to user #{user_id}"
         Auth.add_user_points(user_id, points_to_add)
-        IO.puts ""
         Jobs.update_pfc(job_id, pfc, pfc_count)
 
         user_point_id = get_user_job_point(user_id, job_id).id 
         update_pfc_query(user_point_id, pfc, pfc_count)
   end
   defp update_pfc_query(user_points_id, pfc_sum, pfc_count) do
-    IO.puts "update query #{user_points_id} sum #{pfc_sum} count #{pfc_count}"
     case Repo.get(UserPoint, user_points_id) do
       %UserPoint{} = user_point ->
         IO.inspect user_point
@@ -83,7 +76,8 @@ defmodule RavioliShop.UserPoints do
       (!!job.pfc_count && job.pfc_count > 0) ->
         IO.inspect job
         cond do
-          (job.pfc_count > 10 && pfc > 2*div(job.pfc_sum,job.pfc_count)) ->
+          (job.pfc_count > 10 && div(trunc(pfc), pfc_count) > 2*div(job.pfc_sum,job.pfc_count)) ->
+            IO.puts "got #{pfc}, but limit is #{2*div(job.pfc_sum,job.pfc_count)}"
             {:error, :cheater_prevention}
           true -> case get_user_job_point(user_id, job_id) do
             %UserPoint{} = user_point ->
@@ -110,6 +104,3 @@ defmodule RavioliShop.UserPoints do
     end
   end
 end
-
-# user 760a30db-77dd-4392-a44d-934313b25923
-# job c1cc3356-df48-418f-b841-ee463517a36c

@@ -15,4 +15,8 @@ defmodule RavioliCook.Results.Api do
   def send_pfc(user_id, job_id, email, pfc, batch_size) do
     post("/points", %{"user_id": user_id, "job_id": job_id, "pfc": pfc, "email": email, "pfc_count": batch_size})
   end
+
+  def update_predictions(job_id, client_info, avg_duration) do
+    post("/predictions", %{"job_id": job_id, "client_info": client_info, "avg_duration": avg_duration})
+  end
 end

@@ -23,6 +23,7 @@ defmodule RavioliShop.Job do
     field :pfc_sum, :integer
     field :pfc_count, :integer
     field :wasm_file, RavioliShop.ScriptFile.Type
+    has_many :predictions, RavioliShop.Prediction
 
     timestamps()
   end

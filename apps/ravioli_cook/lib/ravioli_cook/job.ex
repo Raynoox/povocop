@@ -3,9 +3,10 @@ defmodule RavioliCook.Job do
     script_file: nil, user_id: nil, divide_server_url: nil,
     division_type: nil, aggregation_type: nil, required_results_count: nil,
     randomized_results: false, replication_rate: 0, metadata: "",
-    previous_job_id: nil, start_time: nil, pfc_count: nil, pfc_sum: nil, wasm_file
+    previous_job_id: nil, start_time: nil, pfc_count: nil, pfc_sum: nil, wasm_file: nil, predictions: nil
 
   def from_map(params) do
+  #IO.inspect params
     %RavioliCook.Job
 {      id: params["id"],
       type: params["type"],
@@ -22,7 +23,8 @@ defmodule RavioliCook.Job do
       previous_job_id: params["previous_job_id"],
       pfc_count: params["pfc_count"],
       pfc_sum: params["pfc_sum"],
-      wasm_file: params["wasm_file"]
+      wasm_file: params["wasm_file"],
+      predictions: params["predictions"]
     }
   end
 end

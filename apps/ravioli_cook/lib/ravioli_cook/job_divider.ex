@@ -17,13 +17,11 @@ defmodule RavioliCook.JobDivider do
   end
 
   defp do_divide(%Job{previous_job_id: "" <> _job_id}) do
-    IO.inspect "X"
     []
   end
 
   defp do_divide(%Job{divide_server_url: url} = job) when is_binary(url) do
 
-    IO.inspect "YYYYYYYYYYYYYYYYYYYY1"
     Task.Supervisor.start_child(RavioliCook.TaskSupervisor, fn ->
       tasks = JobDivider.Api.get_tasks(job)
 
@@ -36,7 +34,6 @@ defmodule RavioliCook.JobDivider do
   defp do_divide(%Job{division_type: "list_" <> count} = job) do
     count = String.to_integer(count)
 
-    IO.inspect "YYYYYYYYYYYYYYYYYYYY2"
     job.input
     |> Poison.decode!()
     |> Enum.chunk(count)
@@ -54,7 +51,6 @@ defmodule RavioliCook.JobDivider do
 
   defp do_divide(%Job{division_type: "two_lists"} = job) do
 
-    IO.inspect "YYYYYYYYYYYYYYYYYYYY3"
     [first, second] = Poison.decode!(job.input)
 
     length = length(first)
@@ -81,7 +77,6 @@ defmodule RavioliCook.JobDivider do
     %Job{division_type: "text_" <> <<separator>> <> "_" <> count} = job
   ) do
 
-    IO.inspect "YYYYYYYYYYYYYYYYYYYY4"
     count = String.to_integer(count)
     char_separator = <<separator::utf8>>
 
@@ -101,7 +96,6 @@ defmodule RavioliCook.JobDivider do
 
   defp do_divide(%Job{division_type: "repeat_" <> count} = job) do
 
-    IO.inspect "YYYYYYYYYYYYYYYYYYYY5"
     Enum.map(1..String.to_integer(count), fn i ->
       %{
         "task_id" => i,
@@ -128,7 +122,6 @@ defmodule RavioliCook.JobDivider do
   defp do_divide(_), do: []
 
   defp add_common_fields(tasks, job) do
-    IO.inspect job
     common_fields = %{
       "job_id" => job.id,
       "script_file" => job.script_file,

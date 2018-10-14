@@ -11,7 +11,7 @@ config :ravioli_shop,
 
 # Configures the endpoint
 config :ravioli_shop, RavioliShop.Endpoint,
-  url: [host: "192.168.1.65"],
+  url: [host: "192.168.1.66"],
   secret_key_base: "Ek7Ox88wufQcGGey0e70z+b3Q3SlQGy4/suoYRSZ40uvQGwqBRicmWrvGEmqYeCw",
   render_errors: [view: RavioliShop.ErrorView, accepts: ~w(html json)],
   pubsub: [name: RavioliShop.PubSub,

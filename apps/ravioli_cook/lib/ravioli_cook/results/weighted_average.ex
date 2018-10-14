@@ -31,10 +31,11 @@ def handle_cast({:add_result, %{
     "denominator" => denominator,
     "task_id" => task_id,
     "pfc" => pfc,
-    "email" => email
+    "email" => email,
+    "duration" => duration,
+    "clientInfo" => clientInfo
   }}, state) do
-  IO.puts "email"
-  update_state(numerator, denominator, task_id, pfc, nil, email, state)
+  update_state(numerator, denominator, task_id, pfc, nil, email, duration, clientInfo, state)
 end
 
 def handle_cast({:add_result, %{
@@ -42,17 +43,17 @@ def handle_cast({:add_result, %{
     "denominator" => denominator,
     "task_id" => task_id,
     "pfc" => pfc,
-    "fingerprint" => fingerprint
+    "fingerprint" => fingerprint,
+    "duration" => duration,
+    "clientInfo" => clientInfo
   }}, state) do
-  IO.puts "fingerprint"
-  update_state(numerator, denominator, task_id, pfc, fingerprint, nil, state)
+  update_state(numerator, denominator, task_id, pfc, fingerprint, nil, duration, clientInfo, state)
 end
 
 
 
 
-def update_state(numerator, denominator, task_id, pfc, user_id, email, state) do
-    IO.puts "custom func"
+def update_state(numerator, denominator, task_id, pfc, user_id, email, duration, clientInfo, state) do
     numerator = state.numerator + to_int(numerator)
     denominator = state.denominator + to_int(denominator)
     tasks_ids = Enum.uniq([task_id | state.tasks_ids])
@@ -60,18 +61,12 @@ def update_state(numerator, denominator, task_id, pfc, user_id, email, state) do
     job_id = TaskServer.get(task_id)["job_id"]
     TaskServer.remove(task_id)
 
-    IO.puts "add result, task_id: #{task_id}, pid: #{inspect self()}"
-    IO.puts length(tasks_ids)
-
-
-
     received_count = length(tasks_ids)
 
-    IO.puts "report progress, #{job_id}"
-
-    Reporter.report_progress(job_id, state.required_results_count, received_count, user_id, email, pfc)
+    Reporter.report_progress(job_id, state.required_results_count, received_count, user_id, email, pfc, trunc(1000/duration), clientInfo)
 
     if length(tasks_ids) == state.required_results_count do
+      IO.puts "FINISH"
       IO.puts "current value: #{numerator / denominator}"
       duration = :timer.now_diff(:os.timestamp, state.start_time)
 
@@ -84,6 +79,7 @@ def update_state(numerator, denominator, task_id, pfc, user_id, email, state) do
                     numerator: numerator,
                     denominator: denominator,
                     tasks_ids: tasks_ids
+                    
                    }
 
       {:noreply, new_state}
@@ -92,51 +88,6 @@ def update_state(numerator, denominator, task_id, pfc, user_id, email, state) do
 
   end
 
-
-  def handle_cast({:add_result, %{
-    "numerator" => numerator,
-    "denominator" => denominator,
-    "task_id" => task_id,
-    "pfc" => pfc
-  }}, state) do
-    numerator = state.numerator + to_int(numerator)
-    denominator = state.denominator + to_int(denominator)
-    tasks_ids = Enum.uniq([task_id | state.tasks_ids])
-
-    job_id = TaskServer.get(task_id)["job_id"]
-    TaskServer.remove(task_id)
-
-    IO.puts "add result, task_id: #{task_id}, pid: #{inspect self()}"
-    IO.puts length(tasks_ids)
-
-
-
-    received_count = length(tasks_ids)
-
-    IO.puts "report progress, #{job_id}"
-
-    Reporter.report_progress(job_id, state.required_results_count, received_count)
-
-    if length(tasks_ids) == state.required_results_count do
-      IO.puts "current value: #{numerator / denominator}"
-      duration = :timer.now_diff(:os.timestamp, state.start_time)
-
-      IO.puts "duration: #{inspect duration}"
-      Reporter.report_results(job_id, numerator/denominator, duration / 1000)
-      TaskServer.finish_job(job_id)
-      {:stop, :normal, []}
-    else
-      new_state = %{state |
-                    numerator: numerator,
-                    denominator: denominator,
-                    tasks_ids: tasks_ids
-                   }
-
-      {:noreply, new_state}
-    end
-
-
-  end
   def handle_cast({:add_result, _}, state) do
     {:noreply, state}
   end

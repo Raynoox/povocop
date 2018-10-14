@@ -47,7 +47,6 @@ defmodule RavioliShop.Jobs do
                "pfc_count": job.pfc_count + pfc_count })
             |> Repo.update
           true ->
-            IO.inspect job
             job
             |> Job.changeset(
               %{"pfc_sum": trunc(pfc_sum),
