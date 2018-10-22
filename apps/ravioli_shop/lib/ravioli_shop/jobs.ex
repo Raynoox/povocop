@@ -16,7 +16,7 @@ defmodule RavioliShop.Jobs do
   end
 
   def load_user_jobs(user) do
-    user |> Repo.preload(:jobs)
+    user |> Repo.preload([{:jobs, [:predictions]}])
   end
 
   def get_job(user, id) do
